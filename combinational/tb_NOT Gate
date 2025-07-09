@@ -13,3 +13,4 @@ module tb_not_gate;
         $finish;
     end
 endmodule
+
